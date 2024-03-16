@@ -1,0 +1,37 @@
+flavors:
+  development:
+    app:
+      name: "City Eye Dev"
+
+    android:
+      applicationId: "com.sprinteye.cityeye.app.development"
+    ios:
+      bundleId: "com.sprinteye.cityeye.app.development"
+
+  production:
+    app:
+      name: "City Eye"
+
+    android:
+      applicationId: "com.sprinteye.cityeye.app"
+    ios:
+      bundleId: "com.sprinteye.cityeye.app"
+
+  niceTouchDevelopment:
+    app:
+      name: "Nice Touch Dev"
+
+    android:
+      applicationId: "com.sprinteye.cityeye.nicetouch.development"
+    ios:
+      bundleId: "com.sprinteye.cityeye.nicetouch.development"
+
+
+  niceTouchProduction:
+    app:
+       name: "Nice Touch"
+
+    android:
+      applicationId: "com.sprinteye.cityeye.nicetouch"
+    ios:
+      bundleId: "com.sprinteye.cityeye.nicetouch"

@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_niceTouchProduction.dart
+ASSET_PREFIX=niceTouchProduction
+BUNDLE_NAME=Nice Touch
+BUNDLE_DISPLAY_NAME=Nice Touch

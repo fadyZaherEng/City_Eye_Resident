@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>FirebaseAppDelegateProxyEnabled</key>
+    <false/>
+    <key>FlutterDeepLinkingEnabled</key>
+    <true/>
+    <key>CFBundleIconName</key>
+    <string>AppIcon</string>
+    <key>CFBundleTypeRole</key>
+    <string>Editor</string>
+    <key>CFBundleURLName</key>
+    <string>namnp.page.link</string>
+    <key>CFBundleURLSchemes</key>
+    <array>
+      <string>https</string>
+    </array>
+    <key>LSSupportsOpeningDocumentsInPlace</key>
+    <true/>
+    <key>UIFileSharingEnabled</key>
+    <true/>
+    <key>NSContactsUsageDescription</key>
+    <string>Access contacts for event attendee editing.</string>
+    <key>CADisableMinimumFrameDurationOnPhone</key>
+    <true/>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>$(DEVELOPMENT_LANGUAGE)</string>
+    <key>CFBundleDisplayName</key>
+    <string>$(BUNDLE_DISPLAY_NAME)</string>
+    <key>CFBundleExecutable</key>
+    <string>$(EXECUTABLE_NAME)</string>
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>$(BUNDLE_NAME)</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>$(FLUTTER_BUILD_NAME)</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>CFBundleVersion</key>
+    <string>$(FLUTTER_BUILD_NUMBER)</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>NSCalendarsUsageDescription</key>
+    <string>$(PRODUCT_NAME) calendar events</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>$(PRODUCT_NAME) calendar events</string>
+    <key>NSCameraUsageDescription</key>
+    <string>This app requires to access your photo library to show image on profile and send via chat</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>This app requires Mic permission.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>YOUR_DESCRIPTION_HERE</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Our app needs access to your photo gallery to pick images for sharing.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>$(PRODUCT_NAME) reminder use</string>
+    <key>UIApplicationSupportsIndirectInputEvents</key>
+    <true/>
+    <key>UIBackgroundModes</key>
+    <array>
+      <string>fetch</string>
+      <string>processing</string>
+      <string>remote-notification</string>
+    </array>
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+    <key>UIMainStoryboardFile</key>
+    <string>Main</string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <false/>
+  </dict>
+</plist>
